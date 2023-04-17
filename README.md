@@ -5,6 +5,13 @@ PLEASE WAIT ...
 
 Latest Version: [Version 1.0](https://github.com/ye-kyaw-thu/myPoetry/tree/main/corpus/version1.0)  
 
+## Corpus Information
+### Version 1.0  
+
+- Number of poets: 398  
+- Number of unique poems: 1,943  
+- Number of sentences: 46,933  
+
 ## Contributors
 
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
