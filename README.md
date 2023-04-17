@@ -3,6 +3,11 @@ myPoetry corpus is especially suited to applications in creative computational B
 
 PLEASE WAIT ... 
 
+## Contributors
+
+[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
+Khaing Hsu Wai  
+Myint Myint Htay  
 
 ## License
 
