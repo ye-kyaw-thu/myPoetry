@@ -3,6 +3,8 @@ myPoetry corpus is especially suited to applications in creative computational B
 
 PLEASE WAIT ... 
 
+Latest Version: [Version 1.0](https://github.com/ye-kyaw-thu/myPoetry/tree/main/corpus/version1.0)  
+
 ## Contributors
 
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
