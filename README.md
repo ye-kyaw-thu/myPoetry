@@ -99,7 +99,7 @@ $ head -n 40 ./kabyar-corpus-notitle-ver1.0.txt
 
 ## How myPoetry Corpus Was Made
 
-The corpus contains only "title," "poet's name," and "lines of poetry," mainly from publicly available Burmese poetry scanned-PDF books, and a few sentences are from online resources such as Facebook. Therefore, we manually typed and checked almost all lines of the corpus.  
+The myPoetry corpus mainly extracted from publicly available Burmese poetry scanned-PDF books, and a few sentences are from online resources such as Facebook. Therefore, we manually typed and checked almost all lines of the corpus. The corpus version 1.0 contains only "title," "poet's name," and "lines of poetry."    
 
 For your reference:  
 [book-list.txt](https://github.com/ye-kyaw-thu/myPoetry/blob/main/corpus/version1.0/doc/book-list.txt)  
