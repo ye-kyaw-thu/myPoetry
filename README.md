@@ -22,7 +22,7 @@ $ ngram -lm ./mypoetry-5gram.lm -gen 10 -lm ./mypoetry-5gram.lm -gen 3
 ဘယ်ကာလပ် လိုက်တယ် ။
 ```
 
-Latest Version: [Version 1.0](https://github.com/ye-kyaw-thu/myPoetry/tree/main/corpus/version1.0)  
+Latest Version: [Version 1.0](https://github.com/ye-kyaw-thu/myPoetry/tree/main/corpus/version1.0) (Released Date: 20 April 2023)    
 
 ## How myPoetry Corpus Was Made
 
