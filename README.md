@@ -148,7 +148,7 @@ Please email: yktnlp@gmail.com
 If you use any of the resources listed here, please cite:  
 
 ```
-@misc{Charles2013,
+@misc{myPoetry2023,
   author = {Ye Kyaw Thu, Khaing Hsu Wai, Thazin Myint Oo, Myint Myint Htay, Naing Linn Phyo},
   title = {myPoetry},
   year = {2023},
