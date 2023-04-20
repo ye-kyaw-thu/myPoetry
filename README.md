@@ -12,6 +12,11 @@ Latest Version: [Version 1.0](https://github.com/ye-kyaw-thu/myPoetry/tree/main/
 - Number of unique poems: 1,943  
 - Number of sentences: 46,933  
 
+### Corpus Files
+
+- [mypoetry-corpus-ver1.0.txt](https://github.com/ye-kyaw-thu/myPoetry/blob/main/corpus/version1.0/mypoetry-corpus-ver1.0.txt)  
+- [mypoetry-corpus-notitle-ver1.0.txt](https://github.com/ye-kyaw-thu/myPoetry/blob/main/corpus/version1.0/mypoetry-corpus-notitle-ver1.0.txt)  
+
 ### Format
 
 ```
@@ -90,13 +95,16 @@ $ head -n 40 ./kabyar-corpus-notitle-ver1.0.txt
 ငါ့မှာသတိ မြဲခဲ့၏ ။
 ```
 
+## How myPoetry Corpus Was Made
+
+
 ## Contributors
 
-[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
-Khaing Hsu Wai  
-Thazin Myint Oo  
-Myint Myint Htay  
-Naing Linn Phyo
+[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) (Design, Data checking, Modeling)   
+Khaing Hsu Wai (Design, Data preparation)  
+Thazin Myint Oo (Data preparation) 
+Myint Myint Htay (Data preparation)  
+Naing Linn Phyo (Data preparation)
 
 ## License
 
