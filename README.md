@@ -147,3 +147,13 @@ Please email: yktnlp@gmail.com
 
 If you use any of the resources listed here, please cite:  
 
+```
+@misc{Charles2013,
+  author = {Ye Kyaw Thu, Khaing Hsu Wai, Thazin Myint Oo, Myint Myint Htay, Naing Linn Phyo},
+  title = {myPoetry},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/ye-kyaw-thu/myPoetry}}
+}
+```
