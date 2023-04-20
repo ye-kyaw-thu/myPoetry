@@ -13,7 +13,7 @@ $ ngram -lm ./mypoetry-5gram.lm -gen 10 -lm ./mypoetry-5gram.lm -gen 3
 က ဗျာ စာ ရေး ပြန်
 ```
 
-**Generated poetry sentences of GPT-2 model is as follows:**  
+**Generated poetic sentences of GPT-2 model is as follows:**  
 
 ```
 ဟုတ်တဲ့ ခဏ
