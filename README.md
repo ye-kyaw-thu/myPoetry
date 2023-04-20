@@ -8,7 +8,7 @@ Latest Version: [Version 1.0](https://github.com/ye-kyaw-thu/myPoetry/tree/main/
 ## Corpus Information
 ### Version 1.0  
 
-- Number of poets: 398  
+- Number of poets: 394  
 - Number of unique poems: 1,873  
 - Number of poetry sentences: 46,933  
 
@@ -104,6 +104,7 @@ The corpus contains only "title," "poet's name," and "lines of poetry," mainly f
 For your reference:  
 [book-list.txt](https://github.com/ye-kyaw-thu/myPoetry/blob/main/corpus/version1.0/doc/book-list.txt)  
 [uniq-titles.txt](https://github.com/ye-kyaw-thu/myPoetry/blob/main/corpus/version1.0/doc/uniq-titles.txt)  
+[poets-name.txt](https://github.com/ye-kyaw-thu/myPoetry/blob/main/corpus/version1.0/doc/poets-name.txt)  
 
 ## Contributors
 
