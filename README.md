@@ -1,9 +1,7 @@
 # myPoetry (Myanmar Poetry Corpus)
 myPoetry corpus is especially suited to applications in creative computational Burmese poetic text generation.
 
-PLEASE WAIT ... 
-
-If you are lucky, You might get some interesting poetry output as follows:  
+If you are lucky, You might get some interesting poetry output with current myPoetry corpus as follows:  
 
 **3 random sentences that generated with SRILM 5-gram language model**
 ```
