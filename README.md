@@ -9,8 +9,10 @@ Latest Version: [Version 1.0](https://github.com/ye-kyaw-thu/myPoetry/tree/main/
 ### Version 1.0  
 
 - Number of poets: 398  
-- Number of unique poems: 1,943  
-- Number of sentences: 46,933  
+- Number of unique poems: 1,873  
+- Number of poetry sentences: 46,933  
+
+Note: Several poems written by different poets can have the same title.
 
 ### Corpus Files
 
