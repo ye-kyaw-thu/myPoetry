@@ -97,14 +97,15 @@ $ head -n 40 ./kabyar-corpus-notitle-ver1.0.txt
 
 ## How myPoetry Corpus Was Made
 
+The corpus contains only "title," "poet's name," and "lines of poetry," mainly from publicly available Burmese poetry scanned-PDF books, and a few sentences are from online resources such as Facebook. Therefore, we manually typed and checked almost all lines of the corpus.  
 
 ## Contributors
 
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) (Design, Data checking, Modeling)   
 Khaing Hsu Wai (Design, Data preparation)  
-Thazin Myint Oo (Data preparation) 
-Myint Myint Htay (Data preparation)  
-Naing Linn Phyo (Data preparation)
+Thazin Myint Oo (Data preparation)  
+Myint Myint Htay (Data preparation)   
+Naing Linn Phyo (Data preparation)  
 
 ## License
 
