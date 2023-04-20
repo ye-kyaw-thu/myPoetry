@@ -99,6 +99,8 @@ $ head -n 40 ./kabyar-corpus-notitle-ver1.0.txt
 
 The corpus contains only "title," "poet's name," and "lines of poetry," mainly from publicly available Burmese poetry scanned-PDF books, and a few sentences are from online resources such as Facebook. Therefore, we manually typed and checked almost all lines of the corpus.  
 
+For your reference, book list: [book-list.txt](https://github.com/ye-kyaw-thu/myPoetry/blob/main/corpus/version1.0/doc/book-list.txt)  
+
 ## Contributors
 
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) (Design, Data checking, Modeling)   
