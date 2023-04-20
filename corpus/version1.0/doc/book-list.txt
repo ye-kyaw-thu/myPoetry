@@ -1,0 +1,83 @@
+Filename	Book Title	Poet
+00068.pdf	ဗိုလ်ချုပ်အောင်ဆန်းကဗျာများ	အစုံ
+101_Poets_SloudOnTheCity.pdf	ငါတို့မြို့လေးပေါ်စီးဆင်းနေသောမိုးသားများ	ပခုက္ကူကဗျာများစုစည်းမှု (အစုံ)
+107_HanTarWaDe_NetShinNaungYaTu.pdf	ရတုပေါင်းချုပ်	နတ်ရှင်နောင်
+11_LinnHtateShin_PiecesAndMixed.pdf	အရောအနှောအပိုင်းအစများ	လင်းထိပ်သျှင်
+129_MyanmarWritersTeam_FlowerBridge.pdf	ပန်းတံတား	မြန်မာနိုင်ငံစာရေးဆရာအသင်း
+14_Poets_LaYaungHnitMhatTawThitTeeMyar.pdf	လရောင်နှင့်မှည့်သောသစ်သီးများ	အစုံ
+14_PoetUnity_MyanmarPoem2015.pdf	မြန်မာကဗျာ၂၀၁၅	အစုံ
+14_ZarNi_Poems.pdf	သစ္စာရိပ်မြုံ ပန်းမှုန်နှံ့လှိုင်	ဇာနည်
+19_HtiLarsitthu_MawkonTinKabywar.pdf	မော်ကွန်းတင်ကဗျာကြီး	ဒေါက်တာထီလာစစ်သူ
+25_ZawGyi_TheWaterHyacinthsWayPoems.pdf	ဗေဒါလမ်းကဗျာများ	ဇော်ဂျီ
+30_DaLaBan_MinTuWonLife.pdf	အဘ ဘဝ၊ အဘအကြောင်း တစေ့တစောင်း ဒလဘန်း	မင်းသုဝဏ်
+32_NyuntWai_YinMhaSinTawMyar.pdf	ရင်မှဆင်းသောမြစ်တစ်စင်း	ညွန့်ဝေ (ကသာ)
+33_TuKhaMainHlaing_WhalePoem.pdf	ဝေလငါးကဗျာ	သုခမိန်လှိုင်
+34_MgHoneWun_MinTuWonPoem.pdf	မောင်ဟုန်ဝမ် ကဗျာလေ့လာချက်	မင်းသုဝဏ်
+38_DgonKinKhinLay_Women.pdf	အမျိုးသမီးစာဆိုတော်များ	ဒဂုန်ခင်ခင်လေး
+45_NovelPoet_NovelPoems.pdf	နိုဘယ်ကဗျာ	အစုံ
+57_MiddleStandardl_MyanmarKaByar.pdf	အလယ်တန်း မြန်မာကဗျာလက်ရွေးစင်	အစုံ
+57_ThitSarNi_AStrollOnOnesQwnSkin.pdf	မိမိအရေပြားမှ လမ်းလျှောက်ထွက်ခြင်း	သစ္စာနီ
+61_ThitSarNi.pdf	မော်ဒန်ရှင်းတမ်းနှင့် မြန်မာကဗျာဖြစ်ပေါ်တိုးတက်မှု	သစ္စာနီ
+73_MyinMuMgNgMoe_LokaNitiPoems.pdf	လောကနီတိကဗျာများ	မြင်းမူမောင်နိုင်မိုး
+78_HlaTaMain_Myanmar12Month.pdf	ဆယ့်နှစ်ရာသီဖွဲ့ ပေါင်းချုပ်	အစုံ
+79_Tagore_TagoreLastPoems.pdf	တဂိုး၏နောက်ဆုံးကဗျာများ	ကောင်းသာ (မြန်မာပြန်)
+79_ZarNe_PwintPanTaingiKaByarMyar.pdf	ပွင့်ပန်းသိင်္ဂီကဗျာများ	ဇာနည်
+84_NweOoHlaing_LovePoems.pdf	မနေ့က အွန်လိုင်းပေါ်မှာ တွေ့ခဲ့ကြတယ်နှင့် တခြားချစ်ခြင်းဖွဲ့ကဗျာများ	နွယ်ဦးလှိုင်
+89_Manyriters_PoemAndStories.pdf	သင်ထောက်ကူကလေးကဗျာနှင့် အိပ်ရာဝင်စကားပုံများ	အစုံ
+94_MyinMuMaungNaingMoe_StringOfPearlInTheHeart.pdf	ရင်ထဲကပုလဲသွယ်နှင့် တခြားလက်ရွေးစင်ကဗျာများ	မြင်းမူမောင်နိုင်မိုး
+95_ManyWriter_KaByarSwammYe.pdf	ကဗျာစွမ်းရည်	မြန်မာနိုင်ငံစာရေးဆရာအသင်း
+9_MgKhineMar_EalKhanMyarKoPhatTanChin.pdf	ဧည့်ခန်းများကို ဖြတ်သန်းခြင်း	မောင်ခိုင်မာ
+9_MgSoeMyat_Poem.pdf	မညှိုးပန်းဝေ ဥယျဉ်မြေနှင့် အခြားကဗျာများ	မောင်စိုးမြတ် (ချောင်းဦး)
+9_Venus_LovePoems3.pdf	အင်တာနက်လက်ဆောင်အချစ်ကဗျာများ (၃)	ဗီးနပ်(စ်)
+ABurmesePoetZawgyi.pdf	အမျိုးသားစာဆို	ဇော်ဂျီ
+AfterAvoidingTheDislikePersons.pdf	မချစ်နှစ်သက်သူတို့နှင့် ကွေကွင်းပြီးနောက်	ညိုထက် (လမ်းသစ်ဦး)
+ALalTanPoemLatYwaeSin.pdf	အလယ်တန်း ကဗျာလက်ရွေးစင်	အစုံ
+ArakanFolkPoems.pdf	ကျွန်းရွာဓလေ့ကဗျာများ	အစုံ
+AshinKuthala_ArakanLiterature.pdf	ကဗျာ့ဥယျဉ်	ဒွါရာဝတီ-အသျှင်ကုသလ
+AungChaint_GandawinMaMa.pdf	ဂန္တဝင်မမ	အောင်ခြိမ့်
+AungDin_20YearsPoems.pdf	အနှစ်နှစ်ဆယ်ကဗျာစု	အောင်ဒင်/ဒတ္တ
+AungWay_KhayanNuYaungHnin.pdf	ခရမ်းနုရောင်နှင်း	အောင်ဝေး
+AungWay_PoemFactory.pdf	ကဗျာအလုပ်ရုံကလေး	အောင်ဝေး
+BayDarLan(ZawGyi).pdf	ဗေဒါလမ်းကဗျာစု	ဇော်ဂျီ
+D4AEBM1A.pdf	မြန်မာခေတ်ပြိုင်ကဗျာ လျှပ်တစ်ပြက်ရုပ်ပုံလွှာ	အစုံ
+DewangreeRadu.pdf	ဒေးဝန်းအောင်ကျော်ရွှီ၏ ကိုယ်တွိရခိုင်ပြည်သိမ်းတိုက်ပွဲ	
+DhammaPoem.pdf	ဓမ္မကဗျာများ	အရှင်ဘဒ္ဒန္တဇနသာရ
+HrooEainTin_GreenDates.pdf	အစိမ်းရင့်ရောင်ရက်စွဲများ	ထူးအိမ်သင်
+HtetHtetTun_PeaceOfMind.pdf	စိတ်ရဲ့ငြိမ်သက်ခြင်း	ထက်ထက်ထွန်း
+KoNine_Chin.pdf	ချင်းမျိုးချစ်များ၏ နယ်ချဲ့တွန်းလှန်တိုက်ပွဲဝင်တေးကဗျာများ	ကိုနိုင်း(ချင်းတောင်)
+LightintheSky_ArakanPoemsCollection.pdf	ရခိုင်ကဗျာများ	မိုးသောက်ရောင်နီ
+LinnKhant_LadyWithDancing.pdf	ဆည်းဆာပျိုနှင့် ကခုန်ခြင်း	လင်းခန့်
+LuZawThit_LoveWords.pdf	ချစ်ခြင်းအားဖြင် ချစ်ခြင်းဖွဲ့စကားလုံးများ	လူဇော်သစ်
+ManyWriters_LadderLife.pdf	ဘဝလှေကား	အစုံ
+maung_thar_noe.english_poems.pdf	နိုင်ငံခြားကဗျာခံစားချက်များ	မောင်သာနိုး
+MgChawNwe_Virtual.pdf	အတု	မောင်ချောနွယ်
+MgHlaMyo_FirePlay.pdf	မီးပြဇာတ်	မောင်လှမျိုး
+MgKhaingMar_PyoneLiteSanParShinMaYal.pdf	ပြုံးလိုက်စမ်းပါရှင်မရယ်	မောင်ခိုင်မာ
+MgSeinWin_LovePoems.pdf	သမုဒယဝတ်ရည်	မောင်စိန်ဝင်း
+MgSeinWin_ThawKaChaeYar.pdf	သောကခြေရာရတနာ	မောင်စိန်ဝင်း
+MgTharNoe_HtinShuu.pdf	ထင်းရှူးပင်ရိပ်	မောင်သာနိုး
+MinThuWon_LukalayTwaeYalMateSweBirdkalaytwae.pdf	လူကလေးတို့ရဲ့မိတ်ဆွေငှက်ကလေးတွေ	မင်းသုဝဏ်
+MinThuWun_ForMgKhwae.pdf	မောင်ခွေးဖို့ကဗျာများ	မင်းသုဝဏ်
+MinThuWun_HaikuPoem.pdf	ဟိုက္ကူကဗျာမြည်းစရာ	မင်းသုဝဏ်
+MinThuWun_InnLyarKanthoeOKuThoe.pdf	အင်းယားကန်သို့အိုကိုတို့	မင်းသုဝဏ်
+MinThuWun_KabyarYayChin.pdf	ကဗျာရေးချင်စာစပ်သင်	မင်းသုဝဏ်
+min_thu_wun_myanmar_sar_n_hmu.pdf	မြန်မာစာ မြန်မာမှု	မင်းသုဝဏ်
+MinThuWun_ThaPyaeNyo.pdf	သပြေညို	မင်းသုဝဏ်
+MyaeLattMinLwin_Poems.pdf	အရုဏ်သစ်မြူးဖူးပွင့်ဝေစည် မန်းရွှေပြည် ကဗျာများ	မြေလတ်မင်းလွင်
+MyintSoeHlaing_ChitThuPresent.pdf	ချစ်သူ့လက်ဆောင်	မြင့်စိုးလှိုင်
+NaingWinSwe_YaySanLan.pdf	ရေဆန်လမ်းသို့အပြန်	နှိုင်ဝင်းရွှေ
+NayPaing_NiYarMaOnShoulder.pdf	ပခုံးပေါ်မှနိယာမများ	နေပိုင်
+PadaythaYarzar_ThuzarPyoe.pdf	သူဇာပျို့	ပဒေသရာဇာ
+Rakhaing_Razawun_Lunga.pdf	ရခိုင်ရာဇဝင်လင်္ကာ	
+RAKHAINGROYALPOETS.pdf	ရခိုင်စာဆိုတော်များ	ထွန်းရွှေခိုင်
+ShweMyaingPyoneLeiMaw_GoalandPoems.pdf	ပန်းတိုင်လမ်းနှင့်အခြားကဗျာများ	ရွှေမြိုင်ပြုံးလဲ့မောင်
+TaunTwinEiAungThin.pdf	တောင်တွင်း၏အောင်သင်း	အစုံ
+TintNhaung_MorningSong.pdf	မင်္ဂလာရွှေပြည်သီချင်းသည်	တင့်နှောင်း
+TuFuPoems.pdf	စစ်တလင်းမှရှိုက်သံများ	မနှင်းပွင့် (မြန်မာပြန်)
+Uni_Phone_Naing_lady_of_shallott.pdf	ရှားလော့ဒေဝီနှင့် ဘာသာပြန်ကဗျာများ	တက္ကသိုလ်ဘုန်းနိုင်
+UPhone_NearandFar.pdf	နီးနီးဝေးဝေးအတွေးလက်ဆောင်	ဦးဘုန်း(ဓာတု)
+VisitorandPoems.pdf	ကောင်းကင်စိတ်နဲ့မြေလိုကျင့်တဲ့ ဧည့်သည်ကြီးနှင့် သူ၏ကဗျာများ	နေခြူးနှင့်တင်မိုး
+ZarNi_SnowPoems.pdf	နှင်းနုည အလှဖူးသစ်	ဇာနည်
+Zawgyi_NyithitsinPoems.pdf	ညီသစ်စင်းကဗျာစု	ဇော်ဂျီ
+ZawZawAung_Cowboy.pdf	နွားကျောင်းသား	ဇော်ဇော်အောင်
+TinMoe_Poem80.pdf	ကဗျာ ၈၀	တင်မိုး
