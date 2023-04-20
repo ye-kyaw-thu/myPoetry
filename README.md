@@ -3,6 +3,16 @@ myPoetry corpus is especially suited to applications in creative computational B
 
 PLEASE WAIT ... 
 
+If you are lucky, You might get some interesting poetry output as follows:  
+
+**3 random sentences that generated with SRILM 5-gram language model**
+```
+$ ngram -lm ./mypoetry-5gram.lm -gen 10 -lm ./mypoetry-5gram.lm -gen 3
+သူ တော် စင်
+ဘ ဝ ဘိ
+က ဗျာ စာ ရေး ပြန်
+```
+
 Latest Version: [Version 1.0](https://github.com/ye-kyaw-thu/myPoetry/tree/main/corpus/version1.0)  
 
 ## How myPoetry Corpus Was Made
