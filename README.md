@@ -95,7 +95,7 @@ $ head -n 40 ./kabyar-corpus-notitle-ver1.0.txt
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
 Khaing Hsu Wai  
 Thazin Myint Oo  
-Myint Myint Htay 
+Myint Myint Htay  
 Naing Linn Phyo
 
 ## License
